@@ -1,0 +1,2 @@
+# ARIA-The-bot
+ARIA-The bot is an AI based assistant that uses voice recognition, language based algorithms and specified voice commands which returns relevant information which is requested by the user. It will help the user to search results on internet using “Google” keyword as well as finds the path in the local system, if that particular file is not available in the local computer then it will automatically redirect this search on internet. 
