@@ -4,8 +4,8 @@ ARIA-The bot is an AI based assistant that uses voice recognition, language base
 We have also publish Research paper of this project 
 Link of the Research paper :- https://ieeexplore.ieee.org/document/9753961
 # Python Module USED:-
-from PyQt5 import QtWidgets, QtGui,QtCore
-from PyQt5.QtGui import QMovie
+## from PyQt5 import QtWidgets, QtGui,QtCore
+## from PyQt5.QtGui import QMovie
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
